@@ -1,4 +1,4 @@
-package com.huios.monappligitmaven.appligitmaven2;
+package com.huios.monappligitmaven.appligitmaven2.prestentation;
 
 /**
  * Hello world!
